@@ -1,4 +1,6 @@
-### Hi there 👋
+### Evan Frabell
+
+I've built a strong backbone in software development utilizing Java, Python, and Javascript.  Most of my public repositories are learning guides I keep for myself and others - you'll see I rarely get to finish them all the way through before I am jumping onto the next project!
 
 <!--
 **EvanFrabell/EvanFrabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
