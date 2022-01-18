@@ -1,6 +1,6 @@
 ### Evan Frabell
 
-I've built a strong backbone in software development utilizing Java, Python, and Javascript.  Most of my public repositories are learning guides I keep for myself and others - you'll see I rarely get to finish them all the way through before I am jumping onto the next project!
+I'll paste some tutorial links here in the future.  Fair warning - I typically stop creating tutorials early in the process and streamline to the information I need to complete my current project.  I attempt to come back later and fill them in with examples pertaining to the language and job at hand.
 
 <!--
 **EvanFrabell/EvanFrabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
