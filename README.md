@@ -2,7 +2,7 @@
 
 I'll paste some tutorial links here in the future.  Fair warning - I typically stop creating tutorials early in the process and streamline to the information I need to complete my current project.  I attempt to come back later and fill them in with examples pertaining to the language and job at hand.
 
-:panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> - This is pretty much everything you'll need to for data manipulation with Pandas.
+:panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> :panda_face: This is pretty much everything you'll need to for data manipulation with Pandas.
 
 
 <!--
