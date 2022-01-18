@@ -10,7 +10,10 @@
 
 :baseball: <a href="https://github.com/EvanFrabell/pandas-sabermetrics" target="_blank">Sabermetrics with Pandas</a> :baseball: Some messy and fun practice with Pandas
 
-:scroll: <a href="https://youtu.be/N-VIi36BgCM" target="_blank">Data Reporting Architecture</a> :scroll: Short video on modeling a proof-of-concept: Azure, MSSQL, Knime, PowerBI.
+:video_camera: <a href="https://youtu.be/N-VIi36BgCM" target="_blank">Data Reporting Architecture</a> :video_camera: Short video on modeling a proof-of-concept: Azure, MSSQL, Knime, PowerBI.
+
+:camera: <a href="https://github.com/EvanFrabell/for-the-gram" target="_blank">Python Selenium Bot</a> :camera: Create another bot on Instagram that ruins the experience for everyone! Automatically add new friends, delete friends that don't follow back, and like all your friends' posts.
+
 
 
 <!--
