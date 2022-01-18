@@ -2,9 +2,9 @@
 
 I'll paste some tutorial links here in the future.  Fair warning - I typically stop creating tutorials early in the process and streamline to the information I need to complete my current project.  I attempt to come back later and fill them in with examples pertaining to the language and job at hand.
 
-:panda_face: [Python Pandas Guide] (https://github.com/EvanFrabell/my-pandas-guide) - This is pretty much everything you'll need to for data manipulation with Pandas.
+:panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> - This is pretty much everything you'll need to for data manipulation with Pandas.
 
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+
 <!--
 **EvanFrabell/EvanFrabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
