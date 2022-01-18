@@ -1,8 +1,16 @@
-### Evan Frabell
+# Evan Frabell
 
-I'll paste some tutorial links here in the future.  Fair warning - I typically stop creating tutorials early in the process and streamline to the information I need to complete my current project.  I attempt to come back later and fill them in with examples pertaining to the language and job at hand.
+#### POSTING TUTORIALS I USE AS REFERENCES
+
+>:warning: **Warning:** I typically stop creating tutorials early in the process and streamline to the information I need to complete my current project. I attempt to come back later and fill them in with examples pertaining to the job at hand.
+</br>
+</br>
 
 :panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> :panda_face: This is pretty much everything you'll need to for data manipulation with Pandas.
+
+:baseball: <a href="https://github.com/EvanFrabell/pandas-sabermetrics" target="_blank">Sabermetrics with Pandas</a> :baseball: Some messy and fun practice with Pandas
+
+:scroll: <a href="https://youtu.be/N-VIi36BgCM" target="_blank">Data Reporting Architecture</a> :scroll: Short video on modeling a proof-of-concept: Azure, MSSQL, Knime, PowerBI.
 
 
 <!--
