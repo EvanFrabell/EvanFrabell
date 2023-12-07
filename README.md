@@ -6,7 +6,7 @@
 </br>
 </br>
 
-:panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> :panda_face: This is pretty much everything you'll need to for data manipulation with Pandas.
+:panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> :panda_face: This is pretty much everything you'll need to for data manipulation with Pandas. No longer needed with ChatGPT!
 
 :baseball: <a href="https://github.com/EvanFrabell/pandas-sabermetrics" target="_blank">Sabermetrics with Pandas</a> :baseball: Some messy and fun practice with Pandas
 
@@ -14,11 +14,11 @@
 
 :camera: <a href="https://github.com/EvanFrabell/for-the-gram" target="_blank">Python Selenium Bot</a> :camera: Create another bot on Instagram that ruins the experience for everyone! Automatically add new friends, delete friends that don't follow back, and like all your friends' posts.
 
-:movie_camera: <a href=https://github.com/EvanFrabell/MovieConcept target="_blank">IMDB ASP.NET/GRAPHQL API</a> :movie_camera: 
+:movie_camera: <a href=https://github.com/EvanFrabell/MovieConcept target="_blank">IMDB ASP.NET/GRAPHQL API</a> :movie_camera: A proof-of-concept was developed using IMDB movie data, subsequently transformed into a global consumer packaged goods API.
 
+:house: <a href=https://github.com/EvanFrabell/rhc-vue-front target="_blank">Real Home Compare Vue.JS Frontend</a> :house: Kotlin API and data processing kept private. A real estate project for comparing home values.
 
-
-<!--
+<!-- 
 **EvanFrabell/EvanFrabell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
