@@ -1,10 +1,6 @@
 # Evan Frabell
 
-#### POSTING TUTORIALS I USE AS REFERENCES
-
->:warning: **Warning:** I typically stop creating tutorials early in the process and streamline to the information I need to complete my current project. I attempt to come back later and fill them in with examples pertaining to the job at hand.
-</br>
-</br>
+#### MY TUTORIALS I USE AS REFERENCES
 
 :panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> :panda_face: This is pretty much everything you'll need to for data manipulation with Pandas. No longer needed with ChatGPT!
 
