@@ -4,7 +4,7 @@
 
 :panda_face: <a href="https://github.com/EvanFrabell/my-pandas-guide" target="_blank">Python Pandas Guide</a> :panda_face: This is pretty much everything you'll need to for data manipulation with Pandas. No longer needed with ChatGPT!
 
-:baseball: <a href="https://github.com/EvanFrabell/pandas-sabermetrics" target="_blank">Sabermetrics with Pandas</a> :baseball: Some messy and fun practice with Pandas
+:baseball: <a href="https://github.com/EvanFrabell/pandas-sabermetrics" target="_blank">Sabermetrics with Pandas</a> :baseball: Some messy and fun practice with Pandas.
 
 :video_camera: <a href="https://youtu.be/N-VIi36BgCM" target="_blank">Data Reporting Architecture</a> :video_camera: Short video on modeling a proof-of-concept: Azure, MSSQL, Knime, PowerBI.
 
