@@ -19,3 +19,5 @@
 :house: <a href="https://github.com/EvanFrabell/rhc-vue-front" target="_blank">Real Home Compare Vue.JS Frontend</a> :house: Kotlin API and data processing kept private. A real estate project for comparing home values.
 
 :zap: <a href="https://docs.google.com/document/d/1x5oII_HLY8UT82mNBl4N4j4N0Cdd0okiWVm9afXUr5w/edit?usp=sharing" target="_blank">AZ-104 Azure Administrator Study Guide</a> :zap: A thorough study guide for the AZ-104 certification.
+
+:smiley_cat: <a href="https://github.com/EvanFrabell/github-foundations" target="_blank">GitHub Foundations Study Guide</a> :smiley_cat: Everything you need to teach and pass the GitHub Foundations certification.
